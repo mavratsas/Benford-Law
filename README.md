@@ -4,7 +4,7 @@ This document provides step-by-step instructions for installing and running the 
 **1. Step-by-Step Installation Instructions**
 **Windows**
 1. Download and install Python from the official website: https://www.python.org/downloads/. Ensure you check the option to 'Add Python to PATH' during installation.
-2. Download the application (benfords_law_app.py) from the provided GitHub link.
+2. Download the application (benfords_law_app.py) from the provided GitHub link(https://github.com/mavratsas/Benford-Law/blob/main/benfords_law_app.py).
 3. Open the Command Prompt and navigate to the folder where you saved the benfords_law_app.py file. You can do this by using the command 'cd' followed by the folder path.
 4. Install the required Python libraries by typing the following commands in the Command Prompt:
 	pip install pandas matplotlib ttkthemes scipy numpy
@@ -13,7 +13,7 @@ This document provides step-by-step instructions for installing and running the 
 6. If you want to package the app into an executable, follow the packaging instructions below.
 **Mac**
 1. macOS typically comes with Python pre-installed. If not, download and install Python from https://www.python.org/downloads/. Ensure Python is added to your system's PATH.
-2. Download the application (benfords_law_app.py) from the provided GitHub link.
+2. Download the application (benfords_law_app.py) from the provided GitHub link(https://github.com/mavratsas/Benford-Law/blob/main/benfords_law_app.py).
 3. Open the Terminal and navigate to the folder where you saved the benfords_law_app.py file using 'cd' command.
 4. Install the required libraries by typing the following commands in the Terminal:
 	pip install pandas matplotlib ttkthemes scipy numpy
@@ -23,7 +23,7 @@ This document provides step-by-step instructions for installing and running the 
 **Linux**
 1. Install Python if it is not already installed by running the command in the terminal:
 	sudo apt install python3
-2. Download the application (benfords_law_app.py) from the provided GitHub link.
+2. Download the application (benfords_law_app.py) from the provided GitHub link(https://github.com/mavratsas/Benford-Law/blob/main/benfords_law_app.py).
 3. Navigate to the folder where you saved the benfords_law_app.py file using 'cd'.
 4. Install the required libraries by typing the following commands:
 	pip install pandas matplotlib ttkthemes scipy numpy
